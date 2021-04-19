@@ -3,4 +3,4 @@
 
 Release status: closed
 
-![image alt](https://github.com/Swift-Student-Challenge-2021/raw/Development/SubmissionStatus.png)
+![image alt](https://github.com/Swift-Student-Challenge-2021/raw/Production/SubmissionStatus.png)
