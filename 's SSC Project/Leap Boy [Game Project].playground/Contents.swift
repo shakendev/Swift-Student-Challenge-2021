@@ -86,5 +86,5 @@ import PlaygroundSupport
 
 // MARK: - UIViewController live preview
 
-// Create live preview for InitialViewController
+// Create live preview for Leap Boy [Game Project]
 PlaygroundPage.current.liveView = InitialViewController()
