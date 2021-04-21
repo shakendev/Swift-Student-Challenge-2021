@@ -1,5 +1,5 @@
-# Swift-Student-Challenge-2021
-'s Swift Student Challenge 2021 Playground Project
+# 's Swift Student Challenge 202!
+'s Swift Student Challenge 2021 | Xcode Playground Project
 
 Release status: closed
 
